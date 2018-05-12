@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1022
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32024#The-Motor-Girls-on-the-Coast--or-The-Waif-From-the-Sea
 gutenberg_issued: '2010-04-17'
 gutenberg_type: Text
 identifiers:
